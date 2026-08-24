@@ -1,6 +1,6 @@
-# Team 1 — CTF Intern Challenge
+# Team 1 — Glynac Intern Challenge
 
-> Building a **Compliance Document Review App** as part of the Capture the Flag Intern Challenge.
+> Building a **Compliance Document Review App** as part of the Glynac Intern Challenge.
 
 ## 👥 Team
 
@@ -169,6 +169,6 @@ The final stack is determined by the team, with the following recommended techno
 
 ---
 
-**Capture the Flag Intern Challenge — Project Phase**
+**Glynac Intern Challenge — Project Phase**
 
 *Team 1 • Backend • Frontend • AI • Data Engineering • DevOps*
